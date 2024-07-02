@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NextJS , TypeScript.**
 
-- 👯 I’m looking to collaborate on [Hyperswitch](https://github.com/juspay/hyperswitch)
-
 - 👨‍💻 All of my projects are available at [kaustubhsharma.netlify.app](kaustubhsharma.netlify.app)
 
 - 💬 Ask me about **Solidity, ReactJS, NodeJS, Rust**
